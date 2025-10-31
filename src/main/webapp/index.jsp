@@ -3,7 +3,7 @@
     <title>Jenkins-Tomcat Deployment</title>
   </head>
 
-  <body style="background-color: black;">
+  <body style="background-color: white;">
     <h1 style="color: violet; font-size: 40px; text-align: center;">
       HEY WE DEPLOYED OUR APP USING JENKINS
     </h1>

@@ -21,10 +21,10 @@
     </h1>
 
     <h1 style="color: grey; font-size: 40px; text-align: center;">
-      We are done with CI/CD 🚀
+      We are done with CI/CD 
     </h1>
 
-<h1 style="color: yellow; font-size: 60px; text-align: center;">
-      Hii D
+<h1 style="color: white; font-size: 60px; text-align: center;">
+      nenu cheppanu
   </body>
 </html>

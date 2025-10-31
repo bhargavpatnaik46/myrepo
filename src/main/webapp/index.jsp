@@ -24,7 +24,7 @@
       We are done with CI/CD 
     </h1>
 
-<h1 style="color: white; font-size: 60px; text-align: bottom;">
+<h1 style="color: black; font-size: 60px; text-align: center;">
     THANK YOU
   </body>
 </html>

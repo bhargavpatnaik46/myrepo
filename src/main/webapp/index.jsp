@@ -16,7 +16,7 @@
       23456789%
     </h1>
 
-    <h1 style="color: pink; font-size: 40px; text-align: center;">
+    <h1 style="color: blue; font-size: 40px; text-align: center;">
       WE HAVE SUCCESSFULLY DEPLOYED APPLICATION
     </h1>
 
